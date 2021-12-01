@@ -170,7 +170,7 @@
            <list></list>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/imagen_inicio.jfif&quot; width=&quot;301&quot; height=&quot;167&quot; style=&quot;float: left;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Área:&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;Nombre:&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;Fecha:&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;strong&gt;Área: Inglés&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;Nombre: Mateo Bochia&lt;br /&gt;&lt;/strong&gt;&lt;strong&gt;Fecha: 01/12/2021&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
            <int value="4"></int>
            <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1627,7 +1627,7 @@ estudiante a responder la pregunta."></unicode>
   <string role="key" value="compatibleWithVersion9"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="15"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
